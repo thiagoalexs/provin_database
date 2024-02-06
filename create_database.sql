@@ -13,7 +13,8 @@ CREATE TABLE funcionarios (
     data_nascimento DATE,
     CPF VARCHAR (11),
     UF VARCHAR (2),
-    horario_expediente TIME,
+    horario_entrada TIME,
+    horario_saida TIME,
     data_contratacao DATE,
     data_demissao DATE,
     cod_departamento VARCHAR (5)
