@@ -1,9 +1,9 @@
 /*1	Administrativo
-2	Recursos Humanos
-3	Financeiro
-4	Logistica
-5	Marketing
-6	Tecnologia*/
+  2	Recursos Humanos
+  3	Financeiro
+  4	Logistica
+  5	Marketing
+  6	Tecnologia*/
 
 INSERT INTO departamentos (cod_departamento, nome_departamento)
 VALUE (1, "Administrativo");
